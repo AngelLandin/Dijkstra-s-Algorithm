@@ -22,7 +22,11 @@ La estructura y los resultados se muestran en consola.
 ## ⚙️ Estructura del Proyecto
 
 El código se encuentra separado en dos archivos:
-
+📁 Proyecto_Dijkstra/
+│
+├── GrafoDijkstra.h # Contiene la definición de la clase y métodos
+├── GrafoDijkstra.cpp # Contiene la implementación y la función main()
+└── README.md # Documentación del proyecto
 
 ---
 
@@ -142,6 +146,7 @@ Ejemplo de salida:
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
