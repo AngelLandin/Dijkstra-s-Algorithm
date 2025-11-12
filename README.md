@@ -18,19 +18,6 @@ El programa permite:
 La estructura y los resultados se muestran en consola.
 
 ---
-
-## ⚙️ Estructura del Proyecto
-
-El código se encuentra separado en dos archivos:
-📁 Proyecto_Dijkstra/
-│
-├── 📄 GrafoDijkstra.h # Definición de la clase y métodos
-├── 📄 GrafoDijkstra.cpp # Implementación del algoritmo y función main()
-├── 📄 README.md # Documentación del proyecto
-└── 📁 img/ # Carpeta de imágenes
-└── grafo.png # Imagen del grafo (distancias reales)
----
-
 ## 🗺️ Diseño del Grafo
 
 Se seleccionaron **8 ubicaciones (A–H)** cercanas entre sí y se midieron las distancias reales mediante la herramienta  
@@ -147,6 +134,7 @@ Ejemplo de salida:
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
