@@ -1,4 +1,4 @@
-﻿# Dijkstra-s-Algorithm
+
 # 🚗 Algoritmo de Dijkstra — Rutas más Cortas en un Grafo Real
 
 ## 🎯 Objetivo
@@ -52,6 +52,7 @@ Ejemplo de conexiones:
 A continuación se muestra el diagrama del grafo utilizado, con los nodos (A–H) y las distancias medidas con Google Maps:
 
 ![Grafo del Proyecto](img/grafo.jpeg)
+![Grafo del Proyecto](img/grafo_mapa.jpeg)
 
 
 ## 🧠 Algoritmo de Dijkstra
@@ -141,6 +142,7 @@ Ejemplo de salida:
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
