@@ -154,12 +154,13 @@ El programa muestra el camino más corto y la distancia total hacia tres destino
       -> Ruta: A -> B
       -> Distancia Total: 210m
 📍 Interpretación:
+```
 El algoritmo determinó correctamente que:
 
 La ruta más corta de A a H pasa por los nodos intermedios C, E y G.
 
 A E y B se llega directamente o con pocas conexiones.
-
+```
 ---
 ## 📹 Video Explicativo
 
@@ -187,6 +188,7 @@ A E y B se llega directamente o con pocas conexiones.
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
