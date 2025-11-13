@@ -7,8 +7,9 @@
             "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
+                "-Iinclude",
                 "src/main.cpp",
-                "src/Greedy.cpp",
+                "src/GrafoDijkstra.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
