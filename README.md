@@ -109,7 +109,8 @@ El programa construye el grafo, ejecuta el algoritmo desde el nodo A y muestra l
 
 🧱 1. Visualización del Grafo
 Antes de aplicar el algoritmo, el programa imprime la estructura del grafo (lista de adyacencia):
-## 📝 Estructura del Grafo (8 Nodos: A–H) ###
+
+📝 Estructura del Grafo (8 Nodos: A–H) 
 (Basado en el diagrama con pesos en metros)
 Nodo A: (C, 175m) (B, 210m)
 Nodo B: (A, 210m) (D, 135m)
@@ -187,6 +188,7 @@ A E y B se llega directamente o con pocas conexiones.
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
