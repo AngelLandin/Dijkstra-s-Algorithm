@@ -153,7 +153,8 @@ El programa muestra el camino más corto y la distancia total hacia tres destino
   - Destino B:
       -> Ruta: A -> B
       -> Distancia Total: 210m
-📍 Interpretación:
+    
+📍 Interpretación:  
 ```
 El algoritmo determinó correctamente que:
 
@@ -188,6 +189,7 @@ A E y B se llega directamente o con pocas conexiones.
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
