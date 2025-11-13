@@ -111,7 +111,7 @@ El programa construye el grafo, ejecuta el algoritmo desde el nodo A y muestra l
 Antes de aplicar el algoritmo, el programa imprime la estructura del grafo (lista de adyacencia):
 
 📝 Estructura del Grafo (8 Nodos: A–H) 
-
+```
   -Nodo A: (C, 175m) (B, 210m)
   -Nodo B: (A, 210m) (D, 135m)
   -Nodo C: (A, 175m) (F, 20m) (E, 160m)
@@ -120,7 +120,7 @@ Antes de aplicar el algoritmo, el programa imprime la estructura del grafo (list
   -Nodo F: (C, 20m) (G, 200m)
   -Nodo G: (F, 200m) (E, 140m) (H, 60m)
   -Nodo H: (D, 200m) (G, 60m)
-
+```
 ⚙️ 2. Ejecución del Algoritmo (Nodo Origen: A)
 Se aplicó el algoritmo de Dijkstra con el nodo origen A.
 El programa muestra las distancias mínimas calculadas hacia cada nodo.
@@ -187,6 +187,7 @@ A E y B se llega directamente o con pocas conexiones.
 - [Google Maps – Medir distancia](https://www.google.com/maps)
 
 ---
+
 
 
 
